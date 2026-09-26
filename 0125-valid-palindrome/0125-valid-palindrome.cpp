@@ -6,23 +6,20 @@ public:
 
         while (left < right) {
 
-            // Skip non-alphanumeric characters from left
-            while (left < right && !isalnum(s[left])) {
+            if (!isalnum(s[left])) {
                 left++;
             }
-
-            // Skip non-alphanumeric characters from right
-            while (left < right && !isalnum(s[right])) {
+            else if (!isalnum(s[right])) {
                 right--;
             }
+            else {
+                if (tolower(s[left]) != tolower(s[right])) {
+                    return false;
+                }
 
-            // Compare after converting to lowercase
-            if (tolower(s[left]) != tolower(s[right])) {
-                return false;
+                left++;
+                right--;
             }
-
-            left++;
-            right--;
         }
 
         return true;
