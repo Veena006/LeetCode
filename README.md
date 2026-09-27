@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Veena006/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Veena006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Veena006/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Veena006/LeetCode/tree/master/0075-sort-colors) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Veena006/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Veena006/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
