@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Veena006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Veena006/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Veena006/LeetCode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Veena006/LeetCode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/Veena006/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Veena006/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Veena006/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Veena006/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Veena006/LeetCode/tree/master/0037-sudoku-solver) |
 ## Math
 |  |
 | ------- |
@@ -88,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Veena006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Veena006/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Veena006/LeetCode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Veena006/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Veena006/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
